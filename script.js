@@ -165,7 +165,3 @@ function renderUserTable(user){
 
 
 
-
-
-
-// Descriptor
